@@ -31,7 +31,7 @@ namespace WhileForeach
             }
 
             //Foreach
-            string[] arabalar = {"BMW","Ford","Toyota","Volvo"}
+            string[] arabalar = {"BMW","Ford","Toyota","Volvo"};
             foreach (var araba in arabalar)
             {
                 Console.WriteLine(araba);
